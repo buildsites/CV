@@ -1,0 +1,37 @@
+.img1{
+    width:400px;
+    border-radius: 30%;
+    height:500px;
+}
+
+div{
+    width: 50%;
+    height:100%;
+}
+.div1{
+    float:left;
+}
+.div2{
+
+    float:right;
+
+}
+
+p{
+    font-size:180%;
+}
+.p{
+    font-size: 170%;
+}
+h1{
+    font-size: 300%;
+}
+
+.motto{
+    background-color: red;
+    color:white;
+    height: 40%;
+    font-size:100%;
+
+
+}
