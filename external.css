@@ -136,3 +136,10 @@ a:hover{
 .whatsapp{
     border-style: none;
 }
+
+
+@media screen and (max-width:800px) {
+    .link{
+        font-size: 3rem;
+    }
+}
