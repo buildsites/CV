@@ -1,0 +1,138 @@
+body{background-color:white;}
+
+h4{  color: red; }
+h2{  
+    color: red;
+    padding:20px 50px 10px;
+}
+.footer{  
+    color: white;
+    
+}
+@media screen and (max-width:800px){
+    .footer{
+        font-size:20px;
+    }
+
+    .footer-text{
+        font-size:15px;
+        font-family: 'Montserrat', sans-serif;  
+    }
+}
+
+.showcase{
+    text-align:center;
+    font-size:2.5rem;
+    padding-top:50px;
+}
+.link{
+    color: red;
+    font-size:1.1rem;
+    text-decoration: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+.logo{ 
+    width:100%;
+    float:left;
+
+}
+
+p{
+   font-size:150%;
+    padding:10px 50px 0;
+    font-family: 'Montserrat', sans-serif;  
+}
+.first-paragrapgh{
+    color:red;
+    font-family: 'Sacramento', cursive;
+    font-size:2.5rem;
+}
+
+a{color:red;}
+
+.name{ float:left; width:50%; }
+.logo{
+   text-align:center;
+    
+
+}
+.image{
+    text-align:center;
+    
+   
+
+}
+
+/* div{
+    background-color:beige;
+    border-radius:5%;
+    
+} */
+video{
+    border-radius: 50%;
+}
+footer{
+    background-color:red;
+}
+
+
+ul{
+    color:white;list-style-type:none;
+    /* float:right; */
+     text-align: center;
+     background-color:red;
+     
+    }
+
+
+.n{
+    font-size:150%;
+    padding:20px;
+    
+}
+.o{
+    font-size:150%;
+    padding:20px;
+    
+}
+.b{font-size:150%;
+    padding:20px;
+    
+}
+.s{font-size:150%;
+    padding:20px;
+    
+
+}
+
+.g{font-size:150%;
+    padding:50px;
+    text-align:left;
+    margin-right:300px;
+}
+
+.ch{
+    color:gold;
+}
+li{
+    display: inline; 
+    /* float:right; */
+    
+}
+.h{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+
+a:hover{
+    color:blue;
+}
+
+.whatsapp{
+    border-style: none;
+}
